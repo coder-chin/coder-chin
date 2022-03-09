@@ -15,5 +15,5 @@ git branch --set-upstream-to=origin/develop develop
 
 ### 删除分支
 ```shell
-git branch -d localBranchName
+git branch -D localBranchName
 git push origin --delete remoteBranchName
