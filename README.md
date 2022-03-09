@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <!-- ![coder-chin's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-chin&show_icons=true) -->
 
-## 不如反复练习
+## 不如反复练习 :memo:
 ### 本地分支先开好然后推送到远程
 ```shell
 git checkout -b feature-branch                   
