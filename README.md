@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently studying on BJFU.
-- 🌱 I’m currently learning Operating System, Algorithm, React... 
+- 🌱 I’m currently learning Operating System, Algorithm, Front-end engineering, React... 
 
 
 ![coder-chin's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-chin&show_icons=true)
