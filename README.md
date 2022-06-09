@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Operating System, Algorithm, Front-end engineering, React... 
 
 
-![coder-chin's GitHub stats](https://github-readme-stats.vercel.app/api?username=whale2002&show_icons=true)
+![whale2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=whale2002&show_icons=true)
 
 
 
