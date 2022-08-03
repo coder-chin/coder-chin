@@ -10,6 +10,16 @@ You can find me:
 - [掘金](https://juejin.cn/user/598555237295264)
 - [BiliBili](https://space.bilibili.com/401694598)
 
+
+test
+<a href="https://youtu.be/KnXSfjqkKN0" target='blank'>
+          <img
+            src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/JamesDemmel_Colossal-AI.png"
+            width="300"
+          />
+        </a>
+
+
 ![whale2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=whale2002&show_icons=true)
 
 
