@@ -12,7 +12,7 @@ You can find me:
 
 
 test
-<a href="https://youtu.be/KnXSfjqkKN0" target='blank'>
+<a href="https://youtu.be/KnXSfjqkKN0_blank" target='blank'>
           <img
             src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/JamesDemmel_Colossal-AI.png"
             width="300"
