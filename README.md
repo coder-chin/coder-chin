@@ -13,7 +13,7 @@ You can find me:
 
 test
 
-[![Why Colossal-AI?](https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/JamesDemmel_Colossal-AI.png "title")](https://youtu.be/KnXSfjqkKN0)
+[![Why Colossal-AI?](https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/JamesDemmel_Colossal-AI.png "title")](https://youtu.be/KnXSfjqkKN0){:target="_blank"}
 
 
 ![whale2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=whale2002&show_icons=true)
