@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a id="top"></a>
 
 - 🔭 I’m currently studying on BJFU.
 - 🌱 I’m currently learning Operating System, Algorithm, Front-end engineering, React... 
@@ -7,7 +7,7 @@
 You can find me:
 
 - Inference
-  - [Energon-AI](https://github.com/hpcaitech/EnergonAI)(#a)
+  - [Energon-AI](https://github.com/hpcaitech/EnergonAI)
 
 
 - [知乎](https://www.zhihu.com/people/whale2002)
