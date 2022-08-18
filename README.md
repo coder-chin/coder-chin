@@ -6,7 +6,8 @@
 
 You can find me:
 
-[超链文字](#jump)
+- Inference
+  - [Energon-AI](https://github.com/hpcaitech/EnergonAI)(#a)
 
 
 - [知乎](https://www.zhihu.com/people/whale2002)
