@@ -100,7 +100,7 @@ distributed training and inference in a few lines.
   - Parallelism based on configuration file
 
 - Inference
-  - [Energon-AI](https://github.com/hpcaitech/EnergonAI)<a id="EnergonAI"></a>
+  - <a id="EnergonAI" href="https://github.com/hpcaitech/EnergonAI">Energon-AI</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
