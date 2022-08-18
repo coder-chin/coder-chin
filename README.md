@@ -1,11 +1,13 @@
 ## Hi there 👋
 
+
 - 🔭 I’m currently studying on BJFU.
 - 🌱 I’m currently learning Operating System, Algorithm, Front-end engineering, React... 
 
 You can find me:
 
 <span id="jump">跳转内容目标</span>
+[超链文字](#jump)
 
 
 - [知乎](https://www.zhihu.com/people/whale2002)
