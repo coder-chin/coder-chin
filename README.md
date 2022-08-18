@@ -6,7 +6,6 @@
 
 You can find me:
 
-<span id="jump">跳转内容目标</span>
 [超链文字](#jump)
 
 
@@ -18,6 +17,8 @@ You can find me:
 
 ![whale2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=whale2002&show_icons=true)
 
+
+<span id="jump">跳转内容目标</span>
 
 ## 不如反复练习 :memo:
 ### 本地分支先开好然后推送到远程
