@@ -2,7 +2,7 @@
 <a id="top"></a>
 
 - 🔭 I’m currently studying on BJFU.
-- 🌱 I’m currently learning Operating System, Algorithm, Front-end engineering, React... 
+- 🌱 I’m currently learning Network, Front-end engineering, React... 
 
 You can find me:
 
