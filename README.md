@@ -3,6 +3,13 @@
 - 🏫 I’m currently studying on BJFU.
 - 🏃 I’m currently learning React, Front-end engineering, Network... 
 
+---
+## 你好 👋
+- 我是 Howie Chin, 一般在网络世界喜欢用 Chin 自称
+- 喜欢骑行🚴, coding👨‍💻，听音乐🎵，看电影🎞️，尝试美食🥘
+- 偶尔会胡乱写写博客✍️，语雀重度爱好者
+- 以后希望往前端基础架构方面发展🚧
+
 ### 联系
 
 - [语雀](https://www.yuque.com/whale2002)    [知乎](https://www.zhihu.com/people/whale2002)    
