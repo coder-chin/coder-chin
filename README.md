@@ -8,7 +8,7 @@
 - 偶尔会胡乱写写博客✍️，语雀重度爱好者
 - 以后希望往前端基础架构方面发展🚧
 
-### 联系
+### 联系我
 
 - [语雀](https://www.yuque.com/whale2002)    [知乎](https://www.zhihu.com/people/whale2002)    
 
