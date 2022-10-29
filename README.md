@@ -3,7 +3,7 @@
 - 🏫 I’m currently studying on BJFU.
 - 🏃 I’m currently learning React, Front-end engineering, Network... 
 
-## 联系
+### 联系
 
 - [语雀](https://www.yuque.com/whale2002)    [知乎](https://www.zhihu.com/people/whale2002)    
 
