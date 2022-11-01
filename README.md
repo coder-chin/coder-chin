@@ -30,9 +30,3 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&amp;logo=redux&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white">
 </div>
-
-### 实习经历
-
-- 2022.11 - 至今   百度-百度百科 前端实习生
-- 2022.4  - 2022.9 潞晨科技 远程前端打杂实习生
-- 2021.12 - 2022.3 图森未来-AIG 前端实习生
