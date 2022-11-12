@@ -30,7 +30,3 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&amp;logo=redux&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white">
 </div>
-
-### 我最近在听
-
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=1758301675&show_percent=1)](https://netease-recent-profile.vercel.app/?id=1758301675&show_percent=1)
