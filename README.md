@@ -30,9 +30,3 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&amp;logo=redux&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white">
 </div>
-
-
-### My Dream in 2023
-![image](https://user-images.githubusercontent.com/79465534/210139295-375aa70a-ed42-49bb-9775-69eaa64205b0.png)
-
-
