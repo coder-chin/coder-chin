@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🧊 I'm Chin.
 - 🏫 I’m currently studying on BJFU.
-- 🏃 I’m currently learning React, Front-end engineering, Network... 
+- 🏃 I’m currently learning React, Front-end engineering... 
 - `24届前端` `语雀重度爱好者`
 
 ### 联系我
