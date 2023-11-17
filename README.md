@@ -26,3 +26,5 @@
   <img src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white" />
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
