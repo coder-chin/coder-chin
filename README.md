@@ -29,7 +29,7 @@
 
 ### 造轮子计划
 
-| 项目   | 简述         | 技术              |
-| ------ | ------------ | ----------------- |
-| [big-file](https://github.com/whale2002/big-file)  | 大文件上传  | TypeScript, Node.js |
-| [ts-axios](https://github.com/whale2002/ts-axios)  | 用 ts 重写 axios  | TypeScript, Node.js, Turborepo, Pnpm, Changeset |
+| 项目   | 简述         | 技术              | 状态              |
+| ------ | ------------ | ----------------- | ----------------- |
+| [big-file](https://github.com/whale2002/big-file)  | 大文件上传  | TypeScript, Node.js | doing |
+| [ts-axios](https://github.com/whale2002/ts-axios)  | 用 ts 重写 axios  | TypeScript, Node.js, Turborepo, Pnpm, Changeset | finished |
