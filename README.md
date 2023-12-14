@@ -31,5 +31,5 @@
 
 | 项目   | 简述         | 技术              |
 | ------ | ------------ | ----------------- |
-| [ts-axios](https://github.com/whale2002/ts-axios)  | 用 ts 重写 axios  | TupeScript, Node.js, Turborepo, Pnpm, Changeset |
+| [ts-axios](https://github.com/whale2002/ts-axios)  | 用 ts 重写 axios  | TypeScript, Node.js, Turborepo, Pnpm, Changeset |
 | [大文件上传](https://github.com/whale2002/big-file)  | 搞定大文件上传  | TypeScript, Node.js |
