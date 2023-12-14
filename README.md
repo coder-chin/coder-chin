@@ -27,5 +27,9 @@
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white" />
 </div>
 
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+### 造轮子计划
+
+| 项目   | 简述         | 技术              |
+| ------ | ------------ | ----------------- |
+| [ts-axios](https://github.com/whale2002/ts-axios)  | 用 ts 重写 axios  | TupeScript, Node.js, Turborepo, Pnpm, Changeset |
+| [大文件上传](https://github.com/whale2002/big-file)  | 搞定大文件上传  | TypeScript, Node.js |
