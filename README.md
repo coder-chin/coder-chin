@@ -2,15 +2,15 @@
 - 🧊 I'm Chin.
 - 🏫 I’m currently studying on BJFU.
 - 🏃 I’m currently learning React, TypeScript, Front-end engineering... 
-- `24届前端` `语雀重度爱好者`
+- `24届前端` `语雀重度爱好者` `字节准入职校招生`
 
-### 联系我
+### 我的网络身份
 
 - WeChat: imchin_
 
-- [语雀](https://www.yuque.com/whale2002)    [知乎](https://www.zhihu.com/people/whale2002)    
+- 我的 [Blog](https://astro-paper-gray-sigma.vercel.app/)
 
-- [BiliBili](https://space.bilibili.com/401694598) [Twitter](https://twitter.com/HowieChin2)
+- [语雀](https://www.yuque.com/whale2002)    [知乎](https://www.zhihu.com/people/whale2002)   [BiliBili](https://space.bilibili.com/401694598)    [Twitter](https://twitter.com/HowieChin2)
 
 ### 技能
 <div>
