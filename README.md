@@ -8,8 +8,6 @@
 
 - WeChat: imchin_
 
-- 我的 [Blog](https://astro-paper-gray-sigma.vercel.app/)
-
 - [语雀](https://www.yuque.com/whale2002)    [知乎](https://www.zhihu.com/people/whale2002)   [BiliBili](https://space.bilibili.com/401694598)    [Twitter](https://twitter.com/HowieChin2)
 
 ### 技能
