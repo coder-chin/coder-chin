@@ -24,11 +24,3 @@
   <img src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white" />
 </div>
-
-### 造轮子计划
-
-| 项目   | 简述         | 技术              | 状态              |
-| ------ | ------------ | ----------------- | ----------------- |
-| [ssg](https://github.com/whale2002/ssg)  |  基于 Vite 的静态站点生成器 | TypeScript, Node.js, React | 🆗 |
-| [big-file-upload](https://github.com/whale2002/big-file-upload)  | 大文件上传  | React, TypeScript, Node.js | 🆗 |
-| [ts-axios](https://github.com/whale2002/ts-axios)  | 用 ts 重写 axios  | TypeScript, Node.js, Turborepo, Pnpm, Changeset | 🆗 |
