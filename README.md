@@ -3,6 +3,7 @@
 - 🏫 I’m currently studying on BJFU.
 - 🏃 I’m currently learning React, TypeScript, Front-end engineering... 
 - `24届前端` `语雀重度爱好者` `字节准入职校招生`
+- tag: ug & 广告投放 & 程序化广告
 
 ### 我的网络身份
 
