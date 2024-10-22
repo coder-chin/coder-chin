@@ -2,7 +2,7 @@
 - 🧊 I'm Chin.
 - 🏫 I’m currently studying on BJFU.
 - 🏃 I’m currently learning React, TypeScript, Front-end engineering...
-- tag: `ug` & `广告投放` & `程序化广告` 
+- tag: `ug` & `广告投放`
 - `24届前端` `语雀重度爱好者` `字节校招生`
 
 ### 我的网络身份
